@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ", "RabbitMQ\RabbitMQ.csproj", "{10BB9DCE-F21E-4579-A7E2-323425677772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_receiver", "Client_receiver\Client_receiver.csproj", "{1CE046BF-799F-463C-9426-4650DC4887FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BB9DCE-F21E-4579-A7E2-323425677772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BB9DCE-F21E-4579-A7E2-323425677772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BB9DCE-F21E-4579-A7E2-323425677772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BB9DCE-F21E-4579-A7E2-323425677772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE046BF-799F-463C-9426-4650DC4887FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE046BF-799F-463C-9426-4650DC4887FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE046BF-799F-463C-9426-4650DC4887FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE046BF-799F-463C-9426-4650DC4887FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
